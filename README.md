@@ -1,7 +1,7 @@
 
 # Adam Lin
 
-## I am a Web Developer
+## I am a full stack developer
 
 -   I am very passionate about
     computers, programming and
@@ -42,22 +42,22 @@
 <br/>
 <br/>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=adamlinsaad&theme=outrun)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=adamlin22saad&theme=outrun)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlinsaad&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamlin22saad&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adamlinsaad&show_icons=true&count_private=true&theme=outrun)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adamlin22saad&show_icons=true&count_private=true&theme=outrun)
 
 </div>
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=adamlinsaad&theme=rogue&area=true&bg_color=011627&color=21C7A8&line=FF009D&point=00ffff&area_color=00FFFF)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=adamlin22saad&theme=rogue&area=true&bg_color=011627&color=21C7A8&line=FF009D&point=00ffff&area_color=00FFFF)
 
 <br/>
 <hr/>
 <br/>
 
-![GitHub metrics](https://metrics.lecoq.io/adamlinsaad)
+![GitHub metrics](https://metrics.lecoq.io/adamlin22saad)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamlinsaad&theme=outrun)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamlin22saad&theme=outrun)
