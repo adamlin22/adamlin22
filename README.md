@@ -1,7 +1,7 @@
 
 # Adam Lin
 
-## I am a full stack developer
+## I am a Full Stack & Blockchain developer
 
 -   I am very passionate about
     computers, programming and
@@ -24,6 +24,7 @@
     servers and databases for
     functionality and designing and
     developing APIs.
+-   I created TradedTokenContract, TradingApp which work on Ethereum, Binance Smart Chain Network.
 
 <br/>
 
