@@ -1,7 +1,7 @@
 
 # Adam Lin
 
-## I am a Full Stack & Blockchain developer
+## I am a Full Stack developer
 
 -   I am very passionate about
     computers, programming and
